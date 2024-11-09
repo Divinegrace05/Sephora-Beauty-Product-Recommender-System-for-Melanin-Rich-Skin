@@ -154,7 +154,7 @@ snscrape==0.7.0.20230622
 soupsieve==2.0.1
 stack-data @ file:///home/conda/feedstock_root/build_artifacts/stack_data_1669632077133/work
 statsmodels==0.14.1
-streamlit==1.40.0
+streamlit==24.3.1
 sympy==1.13.3
 tenacity==9.0.0
 tensorboard==2.13.0
