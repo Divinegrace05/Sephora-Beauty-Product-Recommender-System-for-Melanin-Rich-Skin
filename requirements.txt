@@ -143,6 +143,7 @@ rsa==4.9
 safetensors==0.4.5
 scikit-image==0.21.0
 scikit-learn @ file:///C:/b/abs_d3v1kgwb2p/croot/scikit-learn_1684781087231/work
+streamlit==1.40.0
 scipy==1.10.1
 seaborn==0.13.2
 Send2Trash @ file:///tmp/build/80754af9/send2trash_1607525499227/work
