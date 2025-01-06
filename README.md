@@ -1,5 +1,5 @@
-# AI-POWERED PERSONALIZED SKINCARE RECOMMENDER
-![product](https://github.com/user-attachments/assets/d370cd58-a84b-472c-afa3-ea13a3424085)
+# PERSONALIZED SEPHORA BEAUTY PRODUCT RECOMMENDER SYSTEM FOR MELANIN-RICH SKIN
+![product](https://github.com/user-attachments/assets/a99f82c1-111e-4b1d-a447-518fac92dedd)
 
 
 # Project Overview
